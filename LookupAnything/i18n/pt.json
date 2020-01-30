@@ -256,8 +256,8 @@
     // values
     "building.fish-pond.population.empty": "Adicionar um peixe à este lago",
     "building.fish-pond.population.next-spawn": "Novo peixe aparece {{relativeDate}}",
-    "building.fish-pond.drops.preface": "{{chance}}% chance each day of producing the first matched item:", // TODO
-    "building.fish-pond.drops.min-fish": "With {{count}} fish:", // TODO
+    "building.fish-pond.drops.preface": "{{chance}}% de chance diária de produzir o primeiro item correspondente:",
+    "building.fish-pond.drops.min-fish": "Com {{count}} peixe:",
     "building.fish-pond.quests.done": "{{count}} peixe",
     "building.fish-pond.quests.incomplete-one": "{{count}} peixe: vai precisar {{itemName}}",
     "building.fish-pond.quests.incomplete-random": "{{count}} peixe: vai precisar de um {{itemList}}",
@@ -404,22 +404,20 @@
     ** Item > fish lookups
     *********/
     // labels
-    // TODO
-    "item.fish-pond-drops": "Fish pond drops",
-    "item.fish-spawn-rules": "Spawn rules",
+    "item.fish-pond-drops": "Derruba de tanque de peixes",
+    "item.fish-spawn-rules": "Regras de desovar",
 
     // values
-    // TODO
-    "item.fish-spawn-rules.min-fishing-level": "min fishing level: {{level}}",
-    "item.fish-spawn-rules.not-caught-yet": "not caught yet (can only be caught once)",
-    "item.fish-spawn-rules.locations": "locations: {{locations}}",
+    "item.fish-spawn-rules.min-fishing-level": "Nível de pesca mínimo: {{level}}",
+    "item.fish-spawn-rules.not-caught-yet": "Ainda não pego (só pode ser pego uma vez)",
+    "item.fish-spawn-rules.locations": "Localização: {{locations}}",
     "item.fish-spawn-rules.locations-by-season.label": "locations:",
     "item.fish-spawn-rules.locations-by-season.season-locations": "{{season}}: {{locations}}",
-    "item.fish-spawn-rules.season-any": "any season",
-    "item.fish-spawn-rules.season-list": "seasons: {{seasons}}",
-    "item.fish-spawn-rules.time": "time of day: {{times}}",
-    "item.fish-spawn-rules.weather-sunny": "weather: sunny",
-    "item.fish-spawn-rules.weather-rainy": "weather: raining",
+    "item.fish-spawn-rules.season-any": "Qualquer estação do ano",
+    "item.fish-spawn-rules.season-list": "Estação: {{seasons}}",
+    "item.fish-spawn-rules.time": "Hora do dia: {{times}}",
+    "item.fish-spawn-rules.weather-sunny": "Clima: ensolarado",
+    "item.fish-spawn-rules.weather-rainy": "Clima: chuvoso",
 
 
     /*********
